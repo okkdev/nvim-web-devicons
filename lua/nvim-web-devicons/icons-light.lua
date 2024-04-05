@@ -956,6 +956,12 @@ local icons_by_file_extension = {
     cterm_color = "94",
     name = "BinaryGLTF",
   },
+  ["gleam"] = {
+    icon = "",
+    color = "#553a51",
+    cterm_color = "53",
+    name = "Gleam",
+  },
   ["gnumakefile"] = {
     icon = "",
     color = "#526064",
